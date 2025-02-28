@@ -1,1 +1,1 @@
-# Egor-gitlab-hw
+homework-gitlab-hw
